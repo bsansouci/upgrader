@@ -1,0 +1,9 @@
+{
+  "name": "upgrader",
+  "dependencies": {
+    "Reprocessing": "schmavery/reprocessing"
+  },
+  "devDependencies": {
+    "bs-platform": "bsansouci/bsb-native#3.2.0"
+  }
+}

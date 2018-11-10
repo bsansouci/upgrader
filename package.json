@@ -1,0 +1,7 @@
+{
+  "name": "upgrader",
+  "scripts": {"build": "bsb -clean-world -make-world"},
+  "devDependencies": {
+    "bsb-native": "4.0.6"
+  }
+}

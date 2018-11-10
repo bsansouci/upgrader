@@ -1,0 +1,16 @@
+{
+  "name": "upgrader",
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src"
+  },
+  "warnings": {
+    "error" : "+101"
+  },
+  "entries": [{
+     "backend": "native",
+     "main-module": "Index"
+  }],
+  // "bs-dependencies": ["reprocessing"],
+  "refmt": 3
+}
